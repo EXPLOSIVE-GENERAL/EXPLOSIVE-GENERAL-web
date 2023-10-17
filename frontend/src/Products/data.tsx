@@ -4,7 +4,7 @@ export default {
     imageUrl: "/images/d1.jpg",
     price: 60,
     brand: "Nike",
-    rating: 4.5,
+    rating: 5,
     numberOfReviews: 10,
     },
     {
@@ -12,14 +12,14 @@ export default {
     imageUrl: "/images/d1.jpg",
     price: 60,
     brand: "Nike",
-    rating: 4.5,
-    numberOfReviews: 10,
+    rating: 2.5,
+    numberOfReviews: 11,
     },
     {
         name: "Shirt",
         imageUrl: "/images/d1.jpg",
-        price: 60,
-        brand: "Nike",
+        price: 50,
+        brand: "Adidas",
         rating: 4.5,
         numberOfReviews: 10,
         },
@@ -28,8 +28,8 @@ export default {
             imageUrl: "/images/d1.jpg",
             price: 60,
             brand: "Nike",
-            rating: 4.5,
-            numberOfReviews: 10,
+            rating: 4,
+            numberOfReviews: 7,
             }
     ]
     }

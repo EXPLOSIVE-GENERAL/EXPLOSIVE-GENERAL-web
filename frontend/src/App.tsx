@@ -19,19 +19,19 @@ function App() {
   return (
     <Router>
       <div className="App">
-    <div className="grid-container">
-    <link rel="stylesheet" href="style.css" />
+      <div className="grid-container">
+      <link rel="stylesheet" href="style.css" />
 	   <title>Explosive General</title>
     
     <header className="header">
-        <div className="brand">
+    <div className="brand">
             <button onClick={openMenu}>&#9776;</button>
             <a href="index.html">Explosive General</a>
     </div>
     <div className="header-links">
-    <Link to="/">Home</Link>
+      <Link to="/">Home</Link>
 	  <Link to="/catalog">Catalog</Link>
-        </div>
+    </div>
     </header>
 
 
